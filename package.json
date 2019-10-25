@@ -1,0 +1,23 @@
+{
+  "name": "codi4_map-generation",
+  "version": "1.0.0",
+  "description": "## Tableaux & boucles",
+  "main": "script.js",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThibDT/codi4_map-generation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThibDT/codi4_map-generation/issues"
+  },
+  "homepage": "https://github.com/ThibDT/codi4_map-generation#readme"
+}
